@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<head>
+<title>Librarian</title>
+</head>
+<body>
+<h1>Books</h1>
+<a href="index.php?c=book&a=edit">Add a book</a>
+<table>
+<thead>
+<tr>
+<th>code</th>
+<th>title</th>
+<th>author</th>
+<th>action</th>
+</tr>
+</thead>
+<tbody>
+<?=$this->listBooksInTable()?>
+</tbody>
+</table>
+<a href="index.php">Homepage</a>
+</body>
+</html>    

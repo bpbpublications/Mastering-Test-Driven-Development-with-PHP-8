@@ -1,0 +1,559 @@
+PHPUnit 11.1.3 by Sebastian Bergmann and contributors.
+
+Runtime:       PHP 8.3.8
+Configuration: /media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/phpunit.xml
+
+.......                                                             7 / 7 (100%)
+
+Time: 00:00.009, Memory: 8.00 MB
+
+OK (7 tests, 24 assertions)
+PHPUnit 11.1.3 by Sebastian Bergmann and contributors.
+
+Runtime:       PHP 8.3.8
+Configuration: /media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/phpunit.xml
+
+..                                                                  2 / 2 (100%)
+
+Time: 00:00.003, Memory: 8.00 MB
+
+OK (2 tests, 4 assertions)
+PHPUnit 11.1.3 by Sebastian Bergmann and contributors.
+
+Runtime:       PHP 8.3.8
+Configuration: /media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/phpunit.xml
+
+..........                                                        10 / 10 (100%)
+
+Time: 00:00.384, Memory: 8.00 MB
+
+OK (10 tests, 16 assertions)
+PHPUnit 11.1.3 by Sebastian Bergmann and contributors.
+
+Runtime:       PHP 8.3.8
+Configuration: /media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/phpunit.xml
+
+FF........                                                        10 / 10 (100%)
+
+Time: 00:00.014, Memory: 8.00 MB
+
+There were 2 failures:
+
+1) CSVTest::testReadAuthorsInCSV
+Failed asserting that actual size 4 matches expected size 3.
+
+/media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/tests/CSVTest.php:48
+
+2) CSVTest::testDeleteAuthorInCSV
+Failed asserting that two strings are equal.
+--- Expected
++++ Actual
+@@ @@
+-'Alencar'
++'Shelley'
+
+/media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/tests/CSVTest.php:86
+
+FAILURES!
+Tests: 10, Assertions: 14, Failures: 2.
+PHPUnit 11.1.3 by Sebastian Bergmann and contributors.
+
+Runtime:       PHP 8.3.8
+Configuration: /media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/phpunit.xml
+
+..........                                                        10 / 10 (100%)
+
+Time: 00:00.009, Memory: 8.00 MB
+
+OK (10 tests, 16 assertions)
+PHPUnit 11.1.3 by Sebastian Bergmann and contributors.
+
+Runtime:       PHP 8.3.8
+Configuration: /media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/phpunit.xml
+
+..........                                                        10 / 10 (100%)
+
+Time: 00:00.478, Memory: 8.00 MB
+
+OK (10 tests, 16 assertions)
+PHPUnit 11.1.3 by Sebastian Bergmann and contributors.
+
+Runtime:       PHP 8.3.8
+Configuration: /media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/phpunit.xml
+
+..........                                                        10 / 10 (100%)
+
+Time: 00:00.010, Memory: 8.00 MB
+
+OK (10 tests, 16 assertions)
+PHPUnit 11.1.3 by Sebastian Bergmann and contributors.
+
+Runtime:       PHP 8.3.8
+Configuration: /media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/phpunit.xml
+
+..........                                                        10 / 10 (100%)
+
+Time: 00:00.010, Memory: 8.00 MB
+
+OK (10 tests, 16 assertions)
+PHPUnit 11.1.3 by Sebastian Bergmann and contributors.
+
+Runtime:       PHP 8.3.8
+Configuration: /media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/phpunit.xml
+
+..........                                                        10 / 10 (100%)
+
+Time: 00:00.289, Memory: 8.00 MB
+
+OK (10 tests, 12 assertions)
+PHPUnit 11.1.3 by Sebastian Bergmann and contributors.
+
+Runtime:       PHP 8.3.8
+Configuration: /media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/phpunit.xml
+
+..........                                                        10 / 10 (100%)
+
+Time: 00:00.525, Memory: 8.00 MB
+
+OK (10 tests, 16 assertions)
+PHPUnit 11.1.3 by Sebastian Bergmann and contributors.
+
+Runtime:       PHP 8.3.8
+Configuration: /media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/phpunit.xml
+
+..........                                                        10 / 10 (100%)
+
+Time: 00:00.008, Memory: 8.00 MB
+
+OK (10 tests, 16 assertions)
+    PHPUnit 11.1.3 by Sebastian Bergmann and contributors.
+
+Runtime:       PHP 8.3.8
+Configuration: /media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/phpunit.xml
+
+..........                                                        10 / 10 (100%)
+
+Time: 00:01.774, Memory: 8.00 MB
+
+OK (10 tests, 20 assertions)
+PHPUnit 11.1.3 by Sebastian Bergmann and contributors.
+
+Runtime:       PHP 8.3.8
+Configuration: /media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/phpunit.xml
+
+.                                                                   1 / 1 (100%)
+
+Time: 00:00.003, Memory: 8.00 MB
+
+OK (1 test, 2 assertions)
+PHPUnit 11.1.3 by Sebastian Bergmann and contributors.
+
+Runtime:       PHP 8.3.8
+Configuration: /media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/phpunit.xml
+
+.                                                                   1 / 1 (100%)
+
+Time: 00:00.003, Memory: 8.00 MB
+
+OK (1 test, 1 assertion)
+PHPUnit 11.1.3 by Sebastian Bergmann and contributors.
+
+Runtime:       PHP 8.3.8
+Configuration: /media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/phpunit.xml
+
+..........                                                        10 / 10 (100%)
+
+Time: 00:00.009, Memory: 8.00 MB
+
+OK (10 tests, 16 assertions)
+PHPUnit 11.1.3 by Sebastian Bergmann and contributors.
+
+Runtime:       PHP 8.3.8
+Configuration: /media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/phpunit.xml
+
+......FFFFFFFF.                                                   15 / 15 (100%)
+
+Time: 00:01.230, Memory: 10.00 MB
+
+There were 8 failures:
+
+1) ViewCollectionTest::testDeleteAuthor
+Failed asserting that a string is empty.
+
+/media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/tests/ViewDatabaseTest.php:164
+
+2) ViewCollectionTest::testListAuthors
+Failed asserting that '<!doctype html>\n
+<html>\n
+<head>\n
+<title>Librarian</title>\n
+</head>\n
+<body>\n
+<h1>Authors</h1>\n
+<a href="author.edit.php">Add an author</a>\n
+<table>\n
+<thead>\n
+<tr>\n
+<th>code</th>\n
+<th>name</th>\n
+<th>action</th>\n
+</tr>\n
+</thead>\n
+<tbody>\n
+    \n
+</tbody>            \n
+</table>\n
+<a href="index.php">Homepage</a>\n
+</body>\n
+</html>    \n
+' [ASCII](length: 307) contains "Jorge Luis Borges" [ASCII](length: 17).
+
+/media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/tests/ViewDatabaseTest.php:53
+
+3) ViewCollectionTest::testEditAuthor
+Failed asserting that two strings are equal.
+--- Expected
++++ Actual
+@@ @@
+-'Raj'
++''
+
+/media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/tests/ViewDatabaseTest.php:105
+
+4) ViewCollectionTest::testUpdateAuthor
+Failed asserting that '<!doctype html>\n
+<html>\n
+<head>\n
+<title>Librarian</title>\n
+</head>\n
+<body>\n
+<p>The record has not been recorded</p>\n
+<a href="author.list.php">Authors</a>\n
+</body>\n
+</html>\n
+' [ASCII](length: 164) contains "Record updated successfully!" [ASCII](length: 28).
+
+/media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/tests/ViewDatabaseTest.php:142
+
+5) ViewCollectionTest::testUpdateBook
+Failed asserting that two strings are equal.
+--- Expected
++++ Actual
+@@ @@
+-'Stihi'
++'Doktor Jivago'
+
+/media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/tests/ViewDatabaseTest.php:292
+
+6) ViewCollectionTest::testEditBook
+Failed asserting that two strings are equal.
+--- Expected
++++ Actual
+@@ @@
+-'Saba and Nisha'
++'Stihi'
+
+/media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/tests/ViewDatabaseTest.php:240
+
+7) ViewCollectionTest::testDeleteBook
+Failed asserting that a string is empty.
+
+/media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/tests/ViewDatabaseTest.php:314
+
+8) ViewCollectionTest::testListBooks
+Failed asserting that '<!doctype html>\n
+<html>\n
+<head>\n
+<title>Librarian</title>\n
+</head>\n
+<body>\n
+<h1>Books</h1>\n
+<a href="book.edit.php">Add a book</a>\n
+<table>\n
+<thead>\n
+<tr>\n
+<th>code</th>\n
+<th>title</th>\n
+<th>author</th>\n
+<th>action</th>\n
+</tr>\n
+</thead>\n
+<tbody>\n
+    \n
+</tbody>\n
+</table>\n
+<a href="index.php">Homepage</a>\n
+</body>\n
+</html>    \n
+' [ASCII](length: 305) contains "muerte anunciada" [ASCII](length: 16).
+
+/media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/tests/ViewDatabaseTest.php:186
+
+FAILURES!
+Tests: 15, Assertions: 25, Failures: 8.
+PHPUnit 11.1.3 by Sebastian Bergmann and contributors.
+
+Runtime:       PHP 8.3.8
+Configuration: /media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/phpunit.xml
+
+...F.FFFFFFF...                                                   15 / 15 (100%)
+
+Time: 00:01.031, Memory: 10.00 MB
+
+There were 8 failures:
+
+1) ViewCSVTest::testEditAuthor
+Failed asserting that two strings are equal.
+--- Expected
++++ Actual
+@@ @@
+-'Raj'
++''
+
+/media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/tests/ViewCSVTest.php:105
+
+2) ViewCSVTest::testUpdateAuthor
+Failed asserting that two strings are equal.
+--- Expected
++++ Actual
+@@ @@
+-'Neigauz'
++'Pasternak'
+
+/media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/tests/ViewCSVTest.php:144
+
+3) ViewCSVTest::testListBooks
+Failed asserting that '<!doctype html>\n
+<html>\n
+<head>\n
+<title>Librarian</title>\n
+</head>\n
+<body>\n
+<h1>Books</h1>\n
+<a href="book.edit.php">Add a book</a>\n
+<table>\n
+<thead>\n
+<tr>\n
+<th>code</th>\n
+<th>title</th>\n
+<th>author</th>\n
+<th>action</th>\n
+</tr>\n
+</thead>\n
+<tbody>\n
+<tr><td><a href="book.edit.php?code=1">1</a><td><td>Crime and Punishment<td><td>Boris Leonidovich Neigauz<td><td><a href="book.delete.php?code=1">remove</a><td></tr>    \n
+</tbody>\n
+</table>\n
+<a href="index.php">Homepage</a>\n
+</body>\n
+</html>    \n
+' [ASCII](length: 470) contains "muerte anunciada" [ASCII](length: 16).
+
+/media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/tests/ViewCSVTest.php:186
+
+4) ViewCSVTest::testDeleteBook
+Failed asserting that a string is empty.
+
+/media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/tests/ViewCSVTest.php:314
+
+5) ViewCSVTest::testDeleteAuthor
+Failed asserting that a string is empty.
+
+/media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/tests/ViewCSVTest.php:164
+
+6) ViewCSVTest::testEditBook
+Failed asserting that two strings are equal.
+--- Expected
++++ Actual
+@@ @@
+-'Saba and Nisha'
++''
+
+/media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/tests/ViewCSVTest.php:240
+
+7) ViewCSVTest::testUpdateBook
+Failed asserting that '<!doctype html>\n
+<html>\n
+<head>\n
+<title>Librarian</title>\n
+</head>\n
+<body>\n
+<p>The record has not been recorded</p>\n
+<a href="book.list.php">Books</a>\n
+</body>\n
+</html>\n
+' [ASCII](length: 160) contains "Record updated successfully!" [ASCII](length: 28).
+
+/media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/tests/ViewCSVTest.php:290
+
+8) ViewCSVTest::testListAuthors
+Failed asserting that '<!doctype html>\n
+<html>\n
+<head>\n
+<title>Librarian</title>\n
+</head>\n
+<body>\n
+<h1>Authors</h1>\n
+<a href="author.edit.php">Add an author</a>\n
+<table>\n
+<thead>\n
+<tr>\n
+<th>code</th>\n
+<th>name</th>\n
+<th>action</th>\n
+</tr>\n
+</thead>\n
+<tbody>\n
+    \n
+</tbody>            \n
+</table>\n
+<a href="index.php">Homepage</a>\n
+</body>\n
+</html>    \n
+' [ASCII](length: 307) contains "Jorge Luis Borges" [ASCII](length: 17).
+
+/media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/tests/ViewCSVTest.php:53
+
+FAILURES!
+Tests: 15, Assertions: 25, Failures: 8.
+PHPUnit 11.1.3 by Sebastian Bergmann and contributors.
+
+Runtime:       PHP 8.3.8
+Configuration: /media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/phpunit.xml
+
+...............                                                   15 / 15 (100%)
+
+Time: 00:01.478, Memory: 8.00 MB
+
+OK (15 tests, 26 assertions)
+PHPUnit 11.1.3 by Sebastian Bergmann and contributors.
+
+Runtime:       PHP 8.3.8
+Configuration: /media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/phpunit.xml
+
+...FF.FFFFFF...                                                   15 / 15 (100%)
+
+Time: 00:01.031, Memory: 10.00 MB
+
+There were 8 failures:
+
+1) ViewJSONTest::testListBooks
+Failed asserting that '<!doctype html>\n
+<html>\n
+<head>\n
+<title>Librarian</title>\n
+</head>\n
+<body>\n
+<h1>Books</h1>\n
+<a href="book.edit.php">Add a book</a>\n
+<table>\n
+<thead>\n
+<tr>\n
+<th>code</th>\n
+<th>title</th>\n
+<th>author</th>\n
+<th>action</th>\n
+</tr>\n
+</thead>\n
+<tbody>\n
+<tr><td><a href="book.edit.php?code=1">1</a><td><td>Crime and Punishment<td><td>  <td><td><a href="book.delete.php?code=1">remove</a><td></tr>    \n
+</tbody>\n
+</table>\n
+<a href="index.php">Homepage</a>\n
+</body>\n
+</html>    \n
+' [ASCII](length: 447) contains "muerte anunciada" [ASCII](length: 16).
+
+/media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/tests/ViewJSONTest.php:186
+
+2) ViewJSONTest::testEditBook
+Failed asserting that two strings are equal.
+--- Expected
++++ Actual
+@@ @@
+-'Saba and Nisha'
++'Crime and Punishment'
+
+/media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/tests/ViewJSONTest.php:240
+
+3) ViewJSONTest::testUpdateAuthor
+Failed asserting that two strings are equal.
+--- Expected
++++ Actual
+@@ @@
+-'Neigauz'
++'Pasternak'
+
+/media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/tests/ViewJSONTest.php:144
+
+4) ViewJSONTest::testDeleteAuthor
+Failed asserting that a string is empty.
+
+/media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/tests/ViewJSONTest.php:164
+
+5) ViewJSONTest::testUpdateBook
+Failed asserting that two strings are equal.
+--- Expected
++++ Actual
+@@ @@
+-'Stihi'
++'La hojarasca'
+
+/media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/tests/ViewJSONTest.php:292
+
+6) ViewJSONTest::testDeleteBook
+Failed asserting that a string is empty.
+
+/media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/tests/ViewJSONTest.php:314
+
+7) ViewJSONTest::testEditAuthor
+Failed asserting that two strings are equal.
+--- Expected
++++ Actual
+@@ @@
+-'Raj'
++''
+
+/media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/tests/ViewJSONTest.php:105
+
+8) ViewJSONTest::testListAuthors
+Failed asserting that '<!doctype html>\n
+<html>\n
+<head>\n
+<title>Librarian</title>\n
+</head>\n
+<body>\n
+<h1>Authors</h1>\n
+<a href="author.edit.php">Add an author</a>\n
+<table>\n
+<thead>\n
+<tr>\n
+<th>code</th>\n
+<th>name</th>\n
+<th>action</th>\n
+</tr>\n
+</thead>\n
+<tbody>\n
+    \n
+</tbody>            \n
+</table>\n
+<a href="index.php">Homepage</a>\n
+</body>\n
+</html>    \n
+' [ASCII](length: 307) contains "Jorge Luis Borges" [ASCII](length: 17).
+
+/media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/tests/ViewJSONTest.php:53
+
+FAILURES!
+Tests: 15, Assertions: 26, Failures: 8.
+PHPUnit 11.1.3 by Sebastian Bergmann and contributors.
+
+Runtime:       PHP 8.3.8
+Configuration: /media/fgsl/hdd/masteringtestdrivenphp/chapter07/librarian/phpunit.xml
+
+..............W                                                   15 / 15 (100%)
+
+Time: 00:01.102, Memory: 8.00 MB
+
+OK, but there were issues!
+Tests: 15, Assertions: 26, Warnings: 1.

@@ -1,0 +1,9 @@
+vendor/
+.phpunit.cache/
+*.bkp
+authors.txt
+books.txt
+authors.csv
+books.csv
+authors.json
+books.json

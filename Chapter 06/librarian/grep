@@ -1,0 +1,11 @@
+==> /var/log/syslog <==
+Jun  6 06:12:01 fgsl-550XDA kernel: [ 3708.819686] audit: type=1400 audit(1717665121.180:182): apparmor="DENIED" operation="open" class="file" profile="ubuntu_pro_esm_cache//dpkg" name="/var/lib/dpkg/arch" pid=10123 comm="dpkg" requested_mask="r" denied_mask="r" fsuid=0 ouid=0
+Jun  6 06:12:02 fgsl-550XDA kernel: [ 3710.081494] audit: type=1400 audit(1717665122.444:183): apparmor="DENIED" operation="open" class="file" profile="ubuntu_pro_esm_cache//apt_methods_gpgv" name="/var/lib/dpkg/arch" pid=10679 comm="dpkg" requested_mask="r" denied_mask="r" fsuid=105 ouid=0
+Jun  6 06:12:02 fgsl-550XDA kernel: [ 3710.090694] audit: type=1400 audit(1717665122.452:184): apparmor="DENIED" operation="open" class="file" profile="ubuntu_pro_esm_cache//apt_methods_gpgv" name="/var/lib/dpkg/arch" pid=10681 comm="dpkg" requested_mask="r" denied_mask="r" fsuid=105 ouid=0
+Jun  6 06:12:02 fgsl-550XDA kernel: [ 3710.099959] audit: type=1400 audit(1717665122.460:185): apparmor="DENIED" operation="open" class="file" profile="ubuntu_pro_esm_cache//apt_methods_gpgv" name="/var/lib/dpkg/arch" pid=10683 comm="dpkg" requested_mask="r" denied_mask="r" fsuid=105 ouid=0
+Jun  6 06:12:02 fgsl-550XDA kernel: [ 3710.109469] audit: type=1400 audit(1717665122.472:186): apparmor="DENIED" operation="open" class="file" profile="ubuntu_pro_esm_cache//apt_methods_gpgv" name="/var/lib/dpkg/arch" pid=10685 comm="dpkg" requested_mask="r" denied_mask="r" fsuid=105 ouid=0
+Jun  6 06:12:02 fgsl-550XDA kernel: [ 3710.120557] audit: type=1400 audit(1717665122.484:187): apparmor="DENIED" operation="open" class="file" profile="ubuntu_pro_esm_cache//apt_methods_gpgv" name="/var/lib/dpkg/arch" pid=10688 comm="dpkg" requested_mask="r" denied_mask="r" fsuid=105 ouid=0
+Jun  6 06:12:02 fgsl-550XDA systemd[1]: esm-cache.service: Deactivated successfully.
+Jun  6 06:12:02 fgsl-550XDA systemd[1]: Finished Update the local ESM caches.
+Jun  6 06:12:09 fgsl-550XDA PackageKit: refresh-cache transaction /295_dcdadeca from uid 1000 finished with success after 8349ms
+Jun  6 06:12:11 fgsl-550XDA snapd[800]: storehelpers.go:923: cannot refresh: snap has no updates available: "bare", "chromium-ffmpeg", "core22", "cups", "firefox", "gnome-42-2204", "gtk-common-themes", "kf5-5-113-qt-5-15-11-core22", "okular", "opera", "snap-store", "snapd", "snapd-desktop-integration"

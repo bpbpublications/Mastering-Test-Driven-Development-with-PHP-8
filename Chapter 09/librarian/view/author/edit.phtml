@@ -1,0 +1,20 @@
+
+<!doctype html>
+<html>
+<head>
+<title>Librarian</title>
+</head>
+<body>
+<h1>Author</h1>
+<form method="post" action="index.php?c=author&a=save">
+<label for="first_name">First name:</label>
+<input type="text" name="first_name" value="<?=$this->author->firstName?>"><br/>
+<label for="middle_name">Middle name:</label>
+<input type="text" name="middle_name" value="<?=$this->author->middleName?>"><br/>
+<label for="last_name">Last name:</label>
+<input type="text" name="last_name" value="<?=$this->author->lastName?>"><br/>
+<input type="hidden" name="code" value="<?=$this->author->code?>"><br/>
+<input type="submit" value="save">
+</form>    
+</body>    
+</html>

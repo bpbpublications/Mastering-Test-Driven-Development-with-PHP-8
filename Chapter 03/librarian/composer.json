@@ -1,0 +1,11 @@
+{
+    "require-dev": {
+        "phpunit/phpunit": "^11.1"
+    },
+    "autoload" : {
+        "files": ["book.functions.php"]
+    },
+    "require": {
+        "fgsl/rest": "*"
+    }
+}

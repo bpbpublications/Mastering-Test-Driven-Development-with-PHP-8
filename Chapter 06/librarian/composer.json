@@ -1,0 +1,15 @@
+{
+    "require-dev": {
+        "phpunit/phpunit": "^11.1"
+    },
+    "autoload" : {
+        "files": ["book.functions.php"],
+        "psr-4": {
+            "Librarian\\": "src/"
+        }        
+    },
+    "require": {
+        "fgsl/rest": "*",
+        "mongodb/mongodb": "^1.19"
+    }
+}
